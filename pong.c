@@ -5,6 +5,7 @@
 #include <time.h>
 
 #define changes
+#define test_success
 
 struct game_set {
     int field_width;

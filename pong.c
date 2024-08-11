@@ -4,6 +4,8 @@
 #include <unistd.h>
 #include <time.h>
 
+#define changes
+
 struct game_set {
     int field_width;
     int field_height;
